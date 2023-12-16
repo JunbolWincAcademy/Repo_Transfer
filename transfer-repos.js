@@ -1,8 +1,8 @@
 const axios = require('axios');
 
-const token = 'Y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';
+const token = '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';
 const orgName = 'JunbolWincAcademy'; //organization
-const repos = ['Caro-Nonno-Pizzeria', 'Tokyo', 'crepes-recipe']; // List your repositories here
+const repos = ['crepes_recipe']; // List your repositories here
 
 const githubApi = 'https://api.github.com';
 const headers = {
